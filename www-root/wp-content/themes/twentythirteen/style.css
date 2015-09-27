@@ -1007,24 +1007,13 @@ ul.nav-menu .focus > ul,
 }
 
 .entry-content-full {
-	margin: auto;
+	margin: 0 auto;
 	width: 100%;
-}
-
-.entry-content-full img {
-	display: block;
-	margin: auto;
 }
 
 .entry-content-full p {
-	margin: auto;
+	margin: 0 auto;
 	width: 50%;
-	text-align: center;
-}
-
-.entry-content-full p.fullwidth {
-	margin: auto;
-	width: 100%;
 	text-align: center;
 }
 
