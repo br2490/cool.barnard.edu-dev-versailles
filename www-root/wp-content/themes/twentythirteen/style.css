@@ -203,6 +203,8 @@ p {
 	margin: 0 0 24px;
 }
 
+
+
 code,
 kbd,
 pre,
@@ -1002,6 +1004,28 @@ ul.nav-menu .focus > ul,
 	margin: 0 auto;
 	max-width: 604px;
 	width: 100%;
+}
+
+.entry-content-full {
+	margin: auto;
+	width: 100%;
+}
+
+.entry-content-full img {
+	display: block;
+	margin: auto;
+}
+
+.entry-content-full p {
+	margin: auto;
+	width: 50%;
+	text-align: center;
+}
+
+.entry-content-full p.fullwidth {
+	margin: auto;
+	width: 100%;
+	text-align: center;
 }
 
 .sidebar .entry-header,
